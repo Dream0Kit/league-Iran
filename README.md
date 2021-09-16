@@ -16,5 +16,23 @@
     "لینک کیت دوم دروازه بان": "https://uupload.ir/files/1e5m_1606836674996.png",
     "لینک کیت سوم دروازه بان": "https://uupload.ir/files/1e5m_1606836674996.png",
     "لینک عکس": "https://www.upsara.com/images/n349982_PicsArt_08-24-02.50.52.png"
+  },
+  {
+    "نام تیم": "استقلال",
+    "شماره لوگو": "لوگو اصلی",
+    "شماره کیت اول": "کیت اول",
+    "شماره کیت دوم": "کیت دوم",
+    "شماره کیت سوم": "کیت سوم",
+    "شماره کیت اول دروازه بان": "کیت اول",
+    "شماره کیت دوم دروازه بان": "کیت دوم",
+    "شماره کیت سوم دروازه بان": "کیت سوم",
+    "لینک لوگو": "https://www.upsara.com/images/b737308_.png",
+    "لینک کیت اول": "https://www.upsara.com/images/g896667_.png",
+    "لینک کیت دوم": "https://www.upsara.com/images/t806311_.png",
+    "لینک کیت سوم": "https://www.upsara.com/images/m231470_.png",
+    "لینک کیت اول دروازه بان": "https://www.upsara.com/images/y438755_.png",
+    "لینک کیت دوم دروازه بان": "https://www.upsara.com/images/y438755_.png",
+    "لینک کیت سوم دروازه بان": "https://www.upsara.com/images/y438755_.png",
+    "لینک عکس": "https://www.upsara.com/images/b737308_.png"
   }
 ]
